@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/sterling/static/css/main.13df6d40.chunk.css",
-    "main.js": "/sterling/static/js/main.07834ad7.chunk.js",
-    "main.js.map": "/sterling/static/js/main.07834ad7.chunk.js.map",
+    "main.js": "/sterling/static/js/main.8ebcdff0.chunk.js",
+    "main.js.map": "/sterling/static/js/main.8ebcdff0.chunk.js.map",
     "runtime-main.js": "/sterling/static/js/runtime-main.9c70fc7a.js",
     "runtime-main.js.map": "/sterling/static/js/runtime-main.9c70fc7a.js.map",
-    "static/js/2.c6768635.chunk.js": "/sterling/static/js/2.c6768635.chunk.js",
-    "static/js/2.c6768635.chunk.js.map": "/sterling/static/js/2.c6768635.chunk.js.map",
+    "static/js/2.f313bb65.chunk.js": "/sterling/static/js/2.f313bb65.chunk.js",
+    "static/js/2.f313bb65.chunk.js.map": "/sterling/static/js/2.f313bb65.chunk.js.map",
     "index.html": "/sterling/index.html",
     "static/css/main.13df6d40.chunk.css.map": "/sterling/static/css/main.13df6d40.chunk.css.map",
-    "static/js/2.c6768635.chunk.js.LICENSE.txt": "/sterling/static/js/2.c6768635.chunk.js.LICENSE.txt"
+    "static/js/2.f313bb65.chunk.js.LICENSE.txt": "/sterling/static/js/2.f313bb65.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9c70fc7a.js",
-    "static/js/2.c6768635.chunk.js",
+    "static/js/2.f313bb65.chunk.js",
     "static/css/main.13df6d40.chunk.css",
-    "static/js/main.07834ad7.chunk.js"
+    "static/js/main.8ebcdff0.chunk.js"
   ]
 }
